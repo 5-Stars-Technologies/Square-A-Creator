@@ -1,2 +1,2 @@
-# Square-A-Creator
+# Square: A Platformer Creator
 Create Platformer in seconds! Then play with the arrow keys...
